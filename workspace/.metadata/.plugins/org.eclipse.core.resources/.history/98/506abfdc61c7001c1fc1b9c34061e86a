@@ -1,0 +1,9 @@
+package day18;
+
+class Avengers {
+	
+}
+
+public class SingtonPattern {
+
+}

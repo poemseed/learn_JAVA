@@ -1,0 +1,26 @@
+1. 자바 있는 지 확인하기
+	윈도우키 + R -> cmd -> java -version
+
+2. 자바 다운로드하기 https://www.oracle.com/java/technologies/downloads/#java8-windows
+오라클 -> 상단 프로덕츠 -> 자바 -> 오른쪽에 다운로드 클릭 -> Java SE Development Kit 8u321 항목으로 스크롤 -> 운영체제에 맞는 파일 다운
+
+
+3. 이클립스 다운로드 하기 https://www.eclipse.org/downloads/packages/release/photon/r
+    ->운영체제 64비트 맞춰서 다운로드
+
+4. 이클립스 셋팅하기
+	1) 콘솔창 꺼내기 
+		상단 바에 windows -> show view -> console (Alt + Shift + Q +C)
+		*show view에서 화면에 보이는 것들 꺼낼수 있음
+
+	2) 한글깨질때 (인코더 깨질때) 설정 
+		(1) 상단바에 windows ->preferences(마지막에 위치) -> 검색바에 enc -> content Types 
+			-> Text -> 맨밑 바에  UTF-8 쳐넣기 -> update 클릭
+			-> workspace -> 맨밑에 Other 클릭 UTF-8로 설정 -> apply
+			->Css/HTML/JSP/XML Files -> 위랑 동일하게 맨윗쪽에 UTF-8로 설정 -> apply
+
+		(2) windows ->preferences(마지막에 위치) -> General -> Editors -> TExt Editors -> show line numbers에 체크
+
+	 3) 화면 dark모드
+		(1) 상단바에 windows -> preferences -> general -> appearance -> Theme : Dark
+	
